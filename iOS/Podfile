@@ -1,0 +1,10 @@
+platform :ios, "7.0"
+
+target "Blinduino" do
+pod 'EDSunriseSet', '0.1'
+end
+
+target "BlinduinoTests" do
+pod 'OCMock'
+end
+
