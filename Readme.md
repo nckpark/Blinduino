@@ -1,6 +1,6 @@
 # Blinduino
 
-Arduino sketch and iPhone app for an automated window blinds system, capable of opening, closing, and scheduled opening of window blinds connected to a stepper motor. Read more about the project [here](http://nckpark.com/projects/blinduinoo), or watch a video of the completed build in action on [YouTube](https://www.youtube.com/watch?v=7hcVPy_RXkc).
+Arduino sketch and iPhone app for an automated window blinds system, capable of opening, closing, and scheduled opening of window blinds connected to a stepper motor. Read more about the project [here](http://nckpark.com/projects/blinduino), or watch a video of the completed build in action on [YouTube](https://www.youtube.com/watch?v=7hcVPy_RXkc).
 
 #### Hardware
 
